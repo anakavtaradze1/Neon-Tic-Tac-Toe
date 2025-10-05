@@ -12,7 +12,7 @@ A modern, visually stunning take on the classic Tic-Tac-Toe game featuring a sma
 ## 📸 Preview
 
 <div align="center">
-  <img src="screenshot.png" alt="Neon Tic-Tac-Toe Game Screenshot" width="400" />
+  <img src="/src/screenshot.png" alt="Neon Tic-Tac-Toe Game Screenshot" width="400" />
   <p><em>Modern gaming interface with neon effects and smart AI opponent</em></p>
 </div>
 
