@@ -9,6 +9,13 @@ A modern, visually stunning take on the classic Tic-Tac-Toe game featuring a sma
 
 **[🎯 Live Demo](https://anakavtaradze.com/tic-tac-toe)**
 
+## 📸 Preview
+
+<div align="center">
+  <img src="screenshot.png" alt="Neon Tic-Tac-Toe Game Screenshot" width="400" />
+  <p><em>Modern gaming interface with neon effects and smart AI opponent</em></p>
+</div>
+
 ## ✨ Features
 
 - **🤖 Smart AI Opponent** - Bot actively tries to win and blocks player's winning moves
@@ -37,13 +44,13 @@ A modern, visually stunning take on the classic Tic-Tac-Toe game featuring a sma
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your_username/NEON-TIC-TAC-TOE.git
+   git clone https://github.com/anakavtaradze1/Neon-Tic-Tac-Toe.git
    ```
 
 2. Navigate to project directory
 
    ```bash
-   cd NEON-TIC-TAC-TOE
+   cd Neon-Tic-Tac-Toe
    ```
 
 3. Install dependencies
@@ -90,4 +97,4 @@ Feel free to fork this project and submit pull requests for any improvements.
 
 ---
 
-**Made with ❤️ by [Ana Kavtaradze]**
+**Made with ❤️ by Ana Kavtaradze**
